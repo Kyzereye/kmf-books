@@ -2,11 +2,11 @@
 
 Keep Moving Forward book: **Peace**
 
-Master archive (all 100): [../new-taglines/new-taglines.md](../new-taglines/new-taglines.md)
+Master archive (all 50): [../new-taglines.md](../new-taglines.md)
 
 Stories: [taglines-stories/](taglines-stories/)
 
-**Count:** 13 entries (numbers match master list)
+**Count:** 3 entries (numbers match master list)
 
 ---
 
@@ -16,11 +16,13 @@ Stories: [taglines-stories/](taglines-stories/)
 
 Your energy is finite and everything wants a piece of it — protect it like something valuable, because it is. Say no to drains, yes to what fuels you, and stop giving your best hours to your worst habits.
 
+
 ## 13. Protect Your Peace - peace
 
 *Protect Your Peace*
 
 Peace isn't passive — it's something you defend with boundaries, choices, and the willingness to walk away from chaos. A calm mind is a competitive advantage; guard it accordingly.
+
 
 ## 36. Get Comfortable With No - peace
 
@@ -89,4 +91,3 @@ Stress hides in the body first — unclench your jaw, drop your shoulders, exhal
 *Choose Less Input*
 
 More information rarely brings more peace — choose less input today. Cut the feed and overwhelm loses its fuel.
-
